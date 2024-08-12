@@ -1,0 +1,14 @@
+Accuracy: 1.00
+Classification Report:
+                                 precision    recall  f1-score   support
+
+       Acceptable squat posture       0.99      1.00      0.99       295
+              Knees flaring out       1.00      0.99      0.99       295
+        Knees collapsing inward       0.00      0.00      0.00         0
+     Toe raising off the ground       1.00      1.00      1.00       319
+          Excessive hip flexion       0.00      0.00      0.00         0
+Excessive posterior pelvic tilt       0.00      0.00      0.00         0
+
+                       accuracy                           1.00       909
+                      macro avg       0.50      0.50      0.50       909
+                   weighted avg       1.00      1.00      1.00       909
